@@ -7,4 +7,4 @@ What I did,
 - Checked for duplicate values and removed duplicates.
 - Split the Product ID into Manufacturing date and Country code using "FLASH FILL", and formatted the Manufacturing Date to DD-MM-YYYY.
 - Combined Product Name and Brand name into Product Brand column using "CONCAT" Function.
-- Applied conditional formatting to highlight the "Electronics" Category and added color scale to the Price column.
+- Applied conditional formatting to highlight the "Electronics" Category and added Data bars to the Price column.
