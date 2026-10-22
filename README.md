@@ -1,5 +1,6 @@
 # Assignment-2---Data-Cleaning-and-Transformation
 This Assignment focuses on data cleaning and transforming  the product dataset using various Excel techniques.
+
 What I did,
 - Checked for missing values in the price column and replaced them with the median value.
 - Checked for inconsistencies in the Category column and corrected them using Find and Replace.
